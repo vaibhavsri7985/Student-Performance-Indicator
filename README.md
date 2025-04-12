@@ -9,7 +9,7 @@ Notebooks Included
 1. EDA.ipynb – Exploratory Data Analysis
 This notebook focuses on preparing and exploring the dataset:
 
-Handling missing values and data cleaning
+Checked missing values and data cleaning
 
 Summary statistics
 
